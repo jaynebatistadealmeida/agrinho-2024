@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+.cabecalho{
+
+
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalho-imagem{
+    width: 200px
