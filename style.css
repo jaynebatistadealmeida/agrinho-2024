@@ -21,6 +21,18 @@ body{
 .cabecalho-menu-listaitem{
 
     display: inline;
-    text-transform: uppercase;
+    text-tr
+    ansform: uppercase;
     margin: 30px;
+}
+.sobre{
+display:flex;
+justify-content:center;
+
+    
+}
+.sobre_texto{
+
+    padding: 40px;
+    
 }
