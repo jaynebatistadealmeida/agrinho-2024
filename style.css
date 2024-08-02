@@ -10,7 +10,7 @@ body{
     justify-content: space-between;
 }
 
-.cabecalho-imagem{
+.cabecalho__imagem{
 width: 200px;
 height: 200px;
 border-radius: 50%;
