@@ -37,6 +37,13 @@ align-items: center;
     padding: 40px;
 }
 
+.sobre__imagem{
+width: 400px;
+height: 400px;
+
+
+}
+
 .elementos{
     display: flex;
     justify-content: center;
